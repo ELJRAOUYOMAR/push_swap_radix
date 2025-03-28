@@ -1,9 +1,9 @@
 #include "push_swap.h"
 
-void	sort_4(t_stack **stack_a, t_stack **stack_b)
-{
-	sort_small_stack(stack_a, stack_b);
-}
+// void	sort_4(t_stack **stack_a, t_stack **stack_b)
+// {
+// 	sort_small_stack(stack_a, stack_b);
+// }
 
 int	get_max_bits(t_stack *stack)
 {
